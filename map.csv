@@ -2,6 +2,8 @@ name,description,path
 agents,Development,AGENTS.md
 readme,Astro Starter Kit: Minimal,README.md
 astro-config,,astro.config.mjs
+bun,,bun.lock
+bunfig,,bunfig.toml
 ,Docs,docs/
 docs-readme,How to write and read docs,docs/README.md
 ,Public,public/
