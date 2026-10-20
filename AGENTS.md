@@ -22,4 +22,4 @@ Consult these guides before working on related tasks:
 ## Rules
 
 Use bun to manage dependencies.
-After update code, run `bun run check` to check for errors.
+After update code, run `bun check:astro` to check for errors.

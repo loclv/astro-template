@@ -6,7 +6,7 @@
     "build": "astro build",
     "preview": "astro preview",
     "astro": "astro",
-    "check": "astro check"
+    "check:astro": "astro check"
   },
   "dependencies": {
     "astro": "^7.4.1",
