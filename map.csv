@@ -1,0 +1,13 @@
+name,description,path
+agents,Development,AGENTS.md
+readme,Astro Starter Kit: Minimal,README.md
+astro-config,,astro.config.mjs
+,Docs,docs/
+docs-readme,How to write and read docs,docs/README.md
+,Public,public/
+favicon,,public/favicon.ico
+favicon,,public/favicon.svg
+rumdl,,rumdl.toml
+,Src,src/
+,Pages,src/pages/
+index,,src/pages/index.astro
