@@ -1,11 +1,13 @@
 name,description,path
-agents,Development,AGENTS.md
-readme,Astro Starter Kit: Minimal,README.md
+agents,Rules,AGENTS.md
+readme,Astro Template,README.md
 astro-config,,astro.config.mjs
 bun,,bun.lock
 bunfig,,bunfig.toml
 ,Docs,docs/
+dev,Development,docs/DEV.md
 docs-readme,How to write and read docs,docs/README.md
+references,References,docs/references.md
 ,Public,public/
 favicon,,public/favicon.ico
 favicon,,public/favicon.svg
